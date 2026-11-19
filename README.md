@@ -42,11 +42,11 @@ I built a MySQL database with three related tables (customers, products and orde
 
 | Question | Screenshot |
 |---|---|
-| Q13: Total revenue | ![Q13](screenshots/Q13_total_revenue.png) |
-| Q28: Total profit | ![Q28](screenshots/Q28_total_profit.png) |
-| Q21: Profit by category (join) | ![Q21](screenshots/Q21_profit_by_category.png) |
-| Q25: Highest-profit category | ![Q25](screenshots/Q25_top_category.png) |
-| Q23: Products above average price (subquery) | ![Q23](screenshots/Q23_above_average_price.png) |
+| Q13: Total revenue | ![Q13](screenshots/Q13.png) |
+| Q28: Total profit | ![Q28](screenshots/Q28.png) |
+| Q21: Profit by category (join) | ![Q21](screenshots/Q21.png) |
+| Q25: Highest-profit category | ![Q25](screenshots/Q25.png) |
+| Q23: Products above average price (subquery) | ![Q23](screenshots/Q23.png) |
 
 ## Data Notes
 
